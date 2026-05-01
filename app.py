@@ -40,7 +40,7 @@ def load_rag():
 
     retriever = db.as_retriever(
         search_type="mmr",
-        search_kwargs={"k": 15}
+        search_kwargs={"k": 16}
     )
 
     return retriever
