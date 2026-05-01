@@ -10,3 +10,6 @@ chromadb==0.4.24
 pypdf==4.2.0
 python-dotenv==1.0.1
 protobuf==3.20.3
+
+# FIX
+pillow==9.5.0
