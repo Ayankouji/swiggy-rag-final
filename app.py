@@ -12,7 +12,7 @@ load_dotenv()
 
 st.set_page_config(page_title="Swiggy RAG Chat", layout="wide")
 st.title("Swiggy Annual Report Chat")
-st.write("Ask anything about Swiggy FY 2024 report")
+st.write("Ask anything about Swiggy FY 2023-2024 report")
 
 
 @st.cache_resource
